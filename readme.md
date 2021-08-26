@@ -1,5 +1,5 @@
 Environment:
-  - To active environment:
+  - To active environment in terminal using:
     - venv\Scripts\activate.bat
   - Run code in terminal run:
     - active environment
